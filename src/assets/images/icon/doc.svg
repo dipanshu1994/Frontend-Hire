@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32.577" height="37.231" viewBox="0 0 32.577 37.231">
+  <g id="Group_1684" data-name="Group 1684" transform="translate(-32)">
+    <path id="Path_1372" data-name="Path 1372" d="M98.327,0A2.334,2.334,0,0,0,96,2.327V34.9a2.334,2.334,0,0,0,2.327,2.327H121.6a2.334,2.334,0,0,0,2.327-2.327V9.308L114.615,0Z" transform="translate(-59.346)" fill="#e2e5e7"/>
+    <path id="Path_1373" data-name="Path 1373" d="M354.327,9.308h6.981L352,0V6.981A2.334,2.334,0,0,0,354.327,9.308Z" transform="translate(-296.731)" fill="#b0b7bd"/>
+    <path id="Path_1374" data-name="Path 1374" d="M390.981,134.981,384,128h6.981Z" transform="translate(-326.404 -118.692)" fill="#cad1d8"/>
+    <path id="Path_1375" data-name="Path 1375" d="M59.923,252.8a1.167,1.167,0,0,1-1.163,1.163h-25.6A1.167,1.167,0,0,1,32,252.8V241.163A1.167,1.167,0,0,1,33.163,240h25.6a1.167,1.167,0,0,1,1.163,1.163Z" transform="translate(0 -222.548)" fill="#518ef8"/>
+    <path id="Path_1379" data-name="Path 1379" d="M118.106,417.163H96v1.163h22.106a1.167,1.167,0,0,0,1.163-1.163V416A1.167,1.167,0,0,1,118.106,417.163Z" transform="translate(-59.346 -385.75)" fill="#cad1d8"/>
+    <text id="DOC" transform="translate(37 27.669)" fill="#fff" font-size="9" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">DOC</tspan></text>
+  </g>
+</svg>
